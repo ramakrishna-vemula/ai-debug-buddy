@@ -1,0 +1,8 @@
+streamlit
+google-generativeai==0.8.5
+protobuf
+google-api-core
+google-auth
+pydantic
+tqdm
+typing-extensions
